@@ -35,7 +35,7 @@ class PruebaEncapsulamiento
 	System.out.println obj.getNombre
 	System.out.println obj.getEdad
 	
-	//jhdfffffffffffffffffffffffffffffffyt
-	//gjhfffffffffffffffffffff
-	//hgcccccccccccccccc
-	//fjggggggggggggggggggg
+	//
+	//
+	//
+	//5432545
